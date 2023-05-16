@@ -21,9 +21,8 @@
     "libssl-dev": "",
     "curl": "",
     "unzip": "",
-    "git": "",
-    "certbot": "",
-    "python3-certbot-nginx": ""
+    "git":  "",
+    "certbot": ""
   },
 
   "dependencies":{
