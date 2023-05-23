@@ -22,7 +22,8 @@
     "curl": "",
     "unzip": "",
     "git":  "",
-    "certbot": ""
+    "certbot": "",
+    "mercurial": ""
   },
 
   "libraries":{
